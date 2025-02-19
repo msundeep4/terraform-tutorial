@@ -3,15 +3,15 @@
 
 # Commands
 <ul><li>
-   terraform --version
-   aws --version
-   aws configure
-   terraform init
-   terraform validate
-   terraform plan
-   terraform apply
-   terraform plan
-   terraform apply
-   terraform apply
-   terraform destroy
+   terraform --version</li><li>
+   aws --version</li><li>
+   aws configure</li><li>
+   terraform init</li><li>
+   terraform validate</li><li>
+   terraform plan</li><li>
+   terraform apply</li><li>
+   terraform plan</li><li>
+   terraform apply</li><li>
+   terraform apply</li><li>
+   terraform destroy</li><li>
 </li></ul>   
